@@ -1,6 +1,7 @@
 body{
-    background-color: peachpuff;
+    background-color: coral;
 }
+
 h1{
     text-align: center;
     text-indent: 0pc;
@@ -13,5 +14,4 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-align: justify;
     font-weight: lighter;
-    
 }
